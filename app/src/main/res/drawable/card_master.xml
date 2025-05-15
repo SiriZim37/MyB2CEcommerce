@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="340dp"
+    android:height="210dp"
+    android:viewportWidth="340"
+    android:viewportHeight="210">
+
+    <!-- Rounded Background Card -->
+    <path
+        android:fillColor="#C0C0C0"
+        android:pathData="M20,0h300a20,20 0 0 1 20,20v170a20,20 0 0 1 -20,20h-300a20,20 0 0 1 -20,-20v-170a20,20 0 0 1 20,-20z" />
+
+    <!-- Chip Group -->
+    <group android:translateX="30" android:translateY="30">
+        <!-- Chip Base -->
+        <path
+            android:fillColor="#FFD700"
+            android:strokeColor="#B8860B"
+            android:strokeWidth="2"
+            android:pathData="M0,0h42v28h-42z" />
+
+        <!-- Vertical lines -->
+        <path android:strokeColor="#B8860B" android:strokeWidth="1" android:fillColor="@color/white"
+            android:pathData="M6,0v28M12,0v28M18,0v28M24,0v28M30,0v28M36,0v28" />
+
+        <!-- Horizontal center line -->
+        <path android:strokeColor="#B8860B" android:strokeWidth="1" android:fillColor="@color/white"
+            android:pathData="M0,14h42" />
+    </group>
+
+</vector>

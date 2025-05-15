@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/background" />
+
+    <item>
+        <bitmap
+            android:src="@drawable/visual_search_bg2"
+            android:gravity="center"
+            android:width="150dp"
+            android:height="150dp"
+            android:alpha="0.5" />
+    </item>
+</layer-list>

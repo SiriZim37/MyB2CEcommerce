@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435795735838",
+    "project_id": "myb2cecommerce",
+    "storage_bucket": "myb2cecommerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435795735838:android:c6d8e0b5d2e7d8a138850f",
+        "android_client_info": {
+          "package_name": "com.siri.myb2cecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435795735838-71tpurk1fv7tlshcirfmkrh72t89ftea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siri.myb2cecommerce",
+            "certificate_hash": "388a2bb9031486363095c7a24e9ec3799b007ce2"
+          }
+        },
+        {
+          "client_id": "435795735838-hnibc76n85slis7ds8n8g9cot8u4hu4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDNJqyflbK5uXdAR8lHSSKxzQKS9YAHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435795735838-hnibc76n85slis7ds8n8g9cot8u4hu4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
